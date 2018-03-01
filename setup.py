@@ -13,7 +13,6 @@ setup(
         'flask',
         'flask-runner',
         'gunicorn',
-        'bandit',
         'coverage',
         'coveralls',
         'pylint',

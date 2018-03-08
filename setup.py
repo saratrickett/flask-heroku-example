@@ -16,7 +16,8 @@ setup(
         'coverage',
         'coveralls',
         'pylint',
-        'pytest'
+        'pytest',
+        'flask-wtf'
 
     ],
     classifiers=[
